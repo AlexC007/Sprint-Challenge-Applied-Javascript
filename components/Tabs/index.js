@@ -16,6 +16,8 @@ function tabs (){
 const tab = document.createElement('div');
 
 tab.classList.add('tab');
+
+
 return tab;
 
 }
