@@ -1,4 +1,4 @@
-// STEP 1: Create a header component.
+// STEP 1: Create a header component.bv
 // -----------------------
 // Using a function create the component you see below:
 //
@@ -31,8 +31,8 @@ header.appendChild(temp);
 
   //Content
   hTag.textContent= 'Lambda Times';
-  date.textContent= 'March 12, 1997';
-  temp.textContent= "72°";
+  date.textContent= 'March 28, 2019';
+  temp.textContent= "98°";
 
 return header;
 
